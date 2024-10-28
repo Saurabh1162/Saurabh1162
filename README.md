@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)]
+![MasterHead](https://camo.githubusercontent.com/730beff67b68cddb97a1e755ed600cc6468f5ee5af58a573875891e8f501b05f/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
 <h1 align="center">Hi 👋, I'm Saurabh More</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
